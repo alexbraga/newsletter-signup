@@ -1,6 +1,8 @@
+require("dotenv").config();
 const express = require("express");
 const https = require("https");
 const mailchimp = require("@mailchimp/mailchimp_marketing");
+
 const app = express();
 
 app.use(express.static("public"));
@@ -54,6 +56,3 @@ app.post("/failure", (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
   console.log("Express server listening on port 3000");
 });
-
-
-

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://newsletter-56509.herokuapp.com/">Newsletter App</a>
+  <a href="https://newsletter-56509.herokuapp.com/" rel="noopener noreferrer" target="_blank">Newsletter App</a>
 </h1>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/alexbraga/newsletter-signup/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/blog-website"></a>
-  <a href="https://newsletter-56509.herokuapp.com/"><img alt="App URL" src="https://img.shields.io/badge/heroku-app-%237159c1?style=flat&logo=heroku"></a>
+  <a href="https://newsletter-56509.herokuapp.com/" rel="noopener noreferrer" target="_blank"><img alt="App URL" src="https://img.shields.io/badge/heroku-app-%237159c1?style=flat&logo=heroku"></a>
 </p>
 
 <h4 align="center">
@@ -17,7 +17,7 @@
 
 ## About
 
-<p align="justify">Node.js newsletter app project with Mailchimp API built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>.</p>
+<p align="justify">Node.js newsletter app project with Mailchimp API built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" rel="noopener noreferrer" target="_blank">The Complete 2021 Web Development Bootcamp</a>.</p>
 
 ---
 

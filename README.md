@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://newsletter-56509.herokuapp.com/" rel="noopener noreferrer" target="_blank">Newsletter App</a>
+  Newsletter App
 </h1>
 
 <h3 align="center">
@@ -7,12 +7,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/alexbraga/newsletter-signup/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/blog-website"></a>
-  <a href="https://newsletter-56509.herokuapp.com/" rel="noopener noreferrer" target="_blank"><img alt="App URL" src="https://img.shields.io/badge/heroku-app-%237159c1?style=flat&logo=heroku"></a>
+  <a href="https://github.com/alexbraga/newsletter-signup/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/newsletter-signup"></a>
 </p>
 
 <h4 align="center">
-	 Status: Deployed
+	 Status: Finished
 </h4>
 
 ## About
@@ -28,7 +27,7 @@
 
 #### Changes to the original project
 
-- Environment variable for hiding API key
+- Added environment variables for hiding API key
 
 ---
 
@@ -37,7 +36,12 @@
 ### Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your
-machine: [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/). In addition, you might also want an editor to work with the code, like
+machine:
+
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+
+In addition, you might also want an editor to work with the code, like
 [VS Code](https://code.visualstudio.com/).
 
 #### Clone this repository
@@ -79,8 +83,9 @@ The following tools were used in the construction of the project:
 
 ## Author
 
-<p>Alexandre Braga</p>
+<h4>Alexandre Braga</h4>
 
-[![Twitter Badge](https://img.shields.io/badge/-@_alex_braga-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/_alex_braga)
-[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Braga-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexgbraga/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@alexbraga.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato@alexbraga.com.br)
+<div>
+<a href="https://www.linkedin.com/in/alexgbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:contato@alexbraga.com.br" target="_blank"><img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="E-Mail"></a>
+</div>

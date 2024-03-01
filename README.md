@@ -22,7 +22,7 @@
 
 ## Features
 
-- Fully functional signup form with Mailchimp API
+- Integration with Mailchimp API
 - Express routing
 
 #### Changes to the original project
